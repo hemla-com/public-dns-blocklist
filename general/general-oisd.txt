@@ -1,9 +1,9 @@
-# Version: 202511082322
+# Version: 202511090221
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards) without *.
-# Entries: 207844
-# Last modified: 2025-11-08T23:22:53+0000
+# Entries: 207847
+# Last modified: 2025-11-09T02:21:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13466,6 +13466,7 @@ agooxouy.net
 agor.io
 agorahexagone.fr
 agoramkt.com.br
+agorapuclse.com
 agore.xyz
 agorotjinked.shop
 agort.xyz
@@ -36006,6 +36007,7 @@ bytevoramax30.com
 bytevoramax30ai.com
 bytevoramax3platform.com
 bytevoramaxai.com
+bytezone015neonworld.sbs
 bytezone116chronowave.sbs
 bytezone150silverpath.sbs
 bytezone16megafusion.sbs
@@ -75219,6 +75221,7 @@ gaiacapitalapp.com
 gaiacapitalapp.net
 gaiaidea.com
 gaian-construction.com
+gaidingirs.com
 gaietyunhappy.com
 gaigoicallgirl.com
 gaihotnhat18.byethost7.com
@@ -126980,8 +126983,6 @@ omenableii.com
 omenkid.top
 omenparsnipwreckage.com
 omentradinginternationalprivateltd.duckdns.org
-omero.agorapuclse.com
-omero.zenlore.info
 omerta.cm
 omertaza.beer
 omeryavuzhome.com
@@ -135199,6 +135200,7 @@ pl-oferta5119370.shop
 pl-oferta515211.info
 pl-oferta53251.shop
 pl-oferta5356306.icu
+pl-oferta5372.icu
 pl-oferta537650835647151-macbook-air-m2.click
 pl-oferta5398062.shop
 pl-oferta5485497.com
@@ -206056,6 +206058,7 @@ zenivo.top
 zenkorysalvith.com
 zenkreka.com
 zenlavor-82mi.digital
+zenlore.info
 zenluxbitrow-app.com
 zenluxbitrow.com
 zenluxbitrowsoftware.com
